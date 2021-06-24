@@ -1,7 +1,7 @@
 # Facemask_detector
 Tensorflow-based facemask detector
  
- ## Analysis Motivation
+ ## Motivation
 Since the Covid-19 pandemic started, face masks have become a norm in life. However, it was a pain in the axx if you want to unlock your iPhone with a face mask on until iOS 14.5
 came out (THANK YOU Apple!). I wanted to leverage some fancy deep learning functionalities to develop a facial recognition program specifically for detecting face masks. 
 
